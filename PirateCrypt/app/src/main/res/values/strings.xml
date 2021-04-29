@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PirateCrypt</string>
+    <string name="incorrect_pass_toast">Invalid Password</string>
+    <string name="incorrect_user_toast">User does not exist</string>
+    <string name="login_toast">Logged in</string>
+
+</resources>
